@@ -1,3 +1,18 @@
+# React Draft WYSIWYG Bug Example
+
+* See `src/App.js`
+* Run `yarn start` or `npm start` to run this locally.
+
+This is an attempt to build a very small example that shows
+the `figure` element breaking the Draft WYSIWYG error, mentioned in
+some Github issues.
+
+See also:
+
+* https://github.com/jpuri/react-draft-wysiwyg/issues/824
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
